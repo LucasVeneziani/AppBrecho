@@ -4,11 +4,11 @@ Aplicativo Expo (SDK 57) que identifica um item pela câmera e estima seu valor 
 
 ## Integrantes:
 
-Lucas Lemos Veneziani
-Reinaldo Santana Arantes
-Breno Rodrigues da Silva
-Guilherme Barbosa Lisboa
-Erick Ferreira da Silva
+Lucas Lemos Veneziani.
+Reinaldo Santana Arantes.
+Breno Rodrigues da Silva.
+Guilherme Barbosa Lisboa.
+Erick Ferreira da Silva.
 
 ## Funcionamento
 
