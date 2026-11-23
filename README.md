@@ -2,6 +2,16 @@
 
 Aplicativo Expo (SDK 57) que identifica um item pela câmera e estima seu valor no mercado de usados.
 
+## Integrantes:
+
+Lucas Lemos Veneziani
+Reinaldo Santana Arantes
+Breno Rodrigues da Silva
+Guilherme Barbosa Lisboa
+Erick Ferreira da Silva
+
+## Funcionamento
+
 **Entrada:** foto de uma roupa ou de qualquer objeto, ou um código de barras / QR code.
 **Saída:** identificação do item, faixa de preço de usado em BRL e anúncios comparáveis.
 
